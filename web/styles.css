@@ -1,0 +1,70 @@
+body{
+background-color: #433d3c;
+text-align: center;
+list-style: inherit;
+}
+
+.heading-one{
+  display: inline;
+  top: 40px;
+  padding: 10px;
+border: solid;
+border-color: #a6a9b6;
+border-radius: 10px;
+margin-top: 30px;
+
+}
+
+.heading-two{
+position: relative;
+margin-top: 0px;
+
+}
+
+.img-slytherin{
+  border-radius: 20%;
+  top:20px;
+  position: relative;
+  width: 300px;
+height: 400px;
+margin-top: 0px;
+
+}
+
+.paragraph-one{
+position: relative;
+font-size: 30px;
+margin-bottom: 0px;
+font-family: inherit;
+color: black;
+
+}
+
+
+.img-gryffindor{
+border-radius: 50px;
+top: 20px;
+position: relative;
+width: 300px;
+height: 400px;
+
+}
+
+
+.img-ravenclaw{
+  border-radius: 50px;
+top: 20px;
+position: relative;
+width: 300px;
+height: 400px;
+
+}
+
+.img-hufflepuff{
+border-radius: 50px;
+top: 20px;
+position: relative;
+width: 300px;
+height: 400px;
+
+}
